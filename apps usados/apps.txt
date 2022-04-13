@@ -1,0 +1,2 @@
+apps utilizados:
+yarn, nodemon(refresh no servidor), express(http), sequelize(tratamento de banco de dados(necessario baixar pacotes para cada tipo de banco))
